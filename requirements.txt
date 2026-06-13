@@ -1,2 +1,2 @@
+greenlet==2.0.2
 playwright==1.44.0
-greenlet==3.0.3
